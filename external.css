@@ -41,4 +41,17 @@ padding: 18px 35px;
 nav{
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
+}
+.header-class{
+    background-color:#FFF8F3;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .img{
+    width: 384px;
+height: 400px;
 }
